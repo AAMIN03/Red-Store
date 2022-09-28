@@ -8,12 +8,9 @@
 - <b>Language and Technology: </b> PHP, HTML, CSS, JS/Bootstrap & MySQL
 - <b>Author Name :</b> Ritk Kumar, Vikram Singh & Aamin Chaudhari
 
-- <b>Website link :</b>[Click here🎉](http://pluto-update.epizy.com/Pluto-Update-master/index.html)
-
 - <b>Login Details: </b> 
   - Username: Ana 
   - Password: 786 
-  - http://localhost/oss-vikram/pluto-update/index.html
 
 ![](back_images/Screenshot%20(150).png)
 ![](back_images/Screenshot%20(163).png)
